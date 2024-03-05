@@ -41,6 +41,9 @@ The results are visualized in the images below:
 <!-- ![Initial Plot](corner_detection.png)
 ![Fitted Plot](edges.png)
 ![Initial Plot](translation.png) -->
+![Camera yaw][/yaw.png]
+![Camera roll][/roll.png]
+![Camera pitch][/pitch.png]
 
 <img src ="corner_detection.png" width=400/>
 <img src ="edges.png" width=400/>
